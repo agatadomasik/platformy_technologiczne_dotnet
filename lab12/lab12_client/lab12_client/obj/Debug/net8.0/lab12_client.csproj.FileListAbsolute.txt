@@ -1,0 +1,14 @@
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab12_client\lab12_client\bin\Debug\net8.0\lab12_client.exe
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab12_client\lab12_client\bin\Debug\net8.0\lab12_client.deps.json
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab12_client\lab12_client\bin\Debug\net8.0\lab12_client.runtimeconfig.json
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab12_client\lab12_client\bin\Debug\net8.0\lab12_client.dll
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab12_client\lab12_client\bin\Debug\net8.0\lab12_client.pdb
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab12_client\lab12_client\obj\Debug\net8.0\lab12_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab12_client\lab12_client\obj\Debug\net8.0\lab12_client.AssemblyInfoInputs.cache
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab12_client\lab12_client\obj\Debug\net8.0\lab12_client.AssemblyInfo.cs
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab12_client\lab12_client\obj\Debug\net8.0\lab12_client.csproj.CoreCompileInputs.cache
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab12_client\lab12_client\obj\Debug\net8.0\lab12_client.dll
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab12_client\lab12_client\obj\Debug\net8.0\refint\lab12_client.dll
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab12_client\lab12_client\obj\Debug\net8.0\lab12_client.pdb
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab12_client\lab12_client\obj\Debug\net8.0\lab12_client.genruntimeconfig.cache
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab12_client\lab12_client\obj\Debug\net8.0\ref\lab12_client.dll

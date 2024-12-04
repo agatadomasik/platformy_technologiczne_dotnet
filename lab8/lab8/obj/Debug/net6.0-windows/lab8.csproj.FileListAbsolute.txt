@@ -1,0 +1,41 @@
+C:\Users\agata\Desktop\lab8\lab8\bin\Debug\net6.0-windows\lab8.exe
+C:\Users\agata\Desktop\lab8\lab8\bin\Debug\net6.0-windows\lab8.deps.json
+C:\Users\agata\Desktop\lab8\lab8\bin\Debug\net6.0-windows\lab8.runtimeconfig.json
+C:\Users\agata\Desktop\lab8\lab8\bin\Debug\net6.0-windows\lab8.dll
+C:\Users\agata\Desktop\lab8\lab8\bin\Debug\net6.0-windows\lab8.pdb
+C:\Users\agata\Desktop\lab8\lab8\obj\Debug\net6.0-windows\lab8.csproj.AssemblyReference.cache
+C:\Users\agata\Desktop\lab8\lab8\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\agata\Desktop\lab8\lab8\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\agata\Desktop\lab8\lab8\obj\Debug\net6.0-windows\lab8_MarkupCompile.cache
+C:\Users\agata\Desktop\lab8\lab8\obj\Debug\net6.0-windows\lab8_MarkupCompile.lref
+C:\Users\agata\Desktop\lab8\lab8\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\agata\Desktop\lab8\lab8\obj\Debug\net6.0-windows\lab8.g.resources
+C:\Users\agata\Desktop\lab8\lab8\obj\Debug\net6.0-windows\lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agata\Desktop\lab8\lab8\obj\Debug\net6.0-windows\lab8.AssemblyInfoInputs.cache
+C:\Users\agata\Desktop\lab8\lab8\obj\Debug\net6.0-windows\lab8.AssemblyInfo.cs
+C:\Users\agata\Desktop\lab8\lab8\obj\Debug\net6.0-windows\lab8.csproj.CoreCompileInputs.cache
+C:\Users\agata\Desktop\lab8\lab8\obj\Debug\net6.0-windows\lab8.dll
+C:\Users\agata\Desktop\lab8\lab8\obj\Debug\net6.0-windows\refint\lab8.dll
+C:\Users\agata\Desktop\lab8\lab8\obj\Debug\net6.0-windows\lab8.pdb
+C:\Users\agata\Desktop\lab8\lab8\obj\Debug\net6.0-windows\lab8.genruntimeconfig.cache
+C:\Users\agata\Desktop\lab8\lab8\obj\Debug\net6.0-windows\ref\lab8.dll
+C:\Users\agata\Desktop\Platformy Technologiczne\lab8\lab8\bin\Debug\net6.0-windows\lab8.exe
+C:\Users\agata\Desktop\Platformy Technologiczne\lab8\lab8\bin\Debug\net6.0-windows\lab8.deps.json
+C:\Users\agata\Desktop\Platformy Technologiczne\lab8\lab8\bin\Debug\net6.0-windows\lab8.runtimeconfig.json
+C:\Users\agata\Desktop\Platformy Technologiczne\lab8\lab8\bin\Debug\net6.0-windows\lab8.dll
+C:\Users\agata\Desktop\Platformy Technologiczne\lab8\lab8\bin\Debug\net6.0-windows\lab8.pdb
+C:\Users\agata\Desktop\Platformy Technologiczne\lab8\lab8\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\agata\Desktop\Platformy Technologiczne\lab8\lab8\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\agata\Desktop\Platformy Technologiczne\lab8\lab8\obj\Debug\net6.0-windows\lab8_MarkupCompile.cache
+C:\Users\agata\Desktop\Platformy Technologiczne\lab8\lab8\obj\Debug\net6.0-windows\lab8_MarkupCompile.lref
+C:\Users\agata\Desktop\Platformy Technologiczne\lab8\lab8\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\agata\Desktop\Platformy Technologiczne\lab8\lab8\obj\Debug\net6.0-windows\lab8.g.resources
+C:\Users\agata\Desktop\Platformy Technologiczne\lab8\lab8\obj\Debug\net6.0-windows\lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agata\Desktop\Platformy Technologiczne\lab8\lab8\obj\Debug\net6.0-windows\lab8.AssemblyInfoInputs.cache
+C:\Users\agata\Desktop\Platformy Technologiczne\lab8\lab8\obj\Debug\net6.0-windows\lab8.AssemblyInfo.cs
+C:\Users\agata\Desktop\Platformy Technologiczne\lab8\lab8\obj\Debug\net6.0-windows\lab8.csproj.CoreCompileInputs.cache
+C:\Users\agata\Desktop\Platformy Technologiczne\lab8\lab8\obj\Debug\net6.0-windows\lab8.dll
+C:\Users\agata\Desktop\Platformy Technologiczne\lab8\lab8\obj\Debug\net6.0-windows\refint\lab8.dll
+C:\Users\agata\Desktop\Platformy Technologiczne\lab8\lab8\obj\Debug\net6.0-windows\lab8.pdb
+C:\Users\agata\Desktop\Platformy Technologiczne\lab8\lab8\obj\Debug\net6.0-windows\lab8.genruntimeconfig.cache
+C:\Users\agata\Desktop\Platformy Technologiczne\lab8\lab8\obj\Debug\net6.0-windows\ref\lab8.dll

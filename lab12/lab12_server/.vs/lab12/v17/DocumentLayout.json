@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agata\\Desktop\\PlatformyTechnologiczne\\lab12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD77740A-AD45-4245-B59F-3DC04E048A97}|lab12\\lab12.csproj|c:\\users\\agata\\desktop\\platformytechnologiczne\\lab12\\lab12\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD77740A-AD45-4245-B59F-3DC04E048A97}|lab12\\lab12.csproj|solutionrelative:lab12\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\agata\\Desktop\\PlatformyTechnologiczne\\lab12\\lab12\\Server.cs",
+              "RelativeDocumentMoniker": "lab12\\Server.cs",
+              "ToolTip": "C:\\Users\\agata\\Desktop\\PlatformyTechnologiczne\\lab12\\lab12\\Server.cs",
+              "RelativeToolTip": "lab12\\Server.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T16:01:48.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

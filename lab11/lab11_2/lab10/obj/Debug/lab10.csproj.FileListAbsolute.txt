@@ -1,0 +1,30 @@
+C:\Users\agata\Desktop\Platformy Technologiczne\lab10\lab10\bin\Debug\lab10.exe.config
+C:\Users\agata\Desktop\Platformy Technologiczne\lab10\lab10\bin\Debug\lab10.exe
+C:\Users\agata\Desktop\Platformy Technologiczne\lab10\lab10\bin\Debug\lab10.pdb
+C:\Users\agata\Desktop\Platformy Technologiczne\lab10\lab10\obj\Debug\lab10.csproj.AssemblyReference.cache
+C:\Users\agata\Desktop\Platformy Technologiczne\lab10\lab10\obj\Debug\lab10.Properties.Resources.resources
+C:\Users\agata\Desktop\Platformy Technologiczne\lab10\lab10\obj\Debug\lab10.csproj.GenerateResource.cache
+C:\Users\agata\Desktop\Platformy Technologiczne\lab10\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+C:\Users\agata\Desktop\Platformy Technologiczne\lab10\lab10\obj\Debug\lab10.exe
+C:\Users\agata\Desktop\Platformy Technologiczne\lab10\lab10\obj\Debug\lab10.pdb
+C:\Users\agata\Desktop\Platformy Technologiczne\lab10\lab10\obj\Debug\lab10.Form1.resources
+C:\Users\agata\Desktop\Platformy Technologiczne\lab11_2\lab10\obj\Debug\lab10.csproj.AssemblyReference.cache
+C:\Users\agata\Desktop\Platformy Technologiczne\lab11_2\lab10\obj\Debug\lab10.Properties.Resources.resources
+C:\Users\agata\Desktop\Platformy Technologiczne\lab11_2\lab10\obj\Debug\lab10.csproj.GenerateResource.cache
+C:\Users\agata\Desktop\Platformy Technologiczne\lab11_2\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+C:\Users\agata\Desktop\Platformy Technologiczne\lab11_2\lab10\obj\Debug\lab10.exe
+C:\Users\agata\Desktop\Platformy Technologiczne\lab11_2\lab10\obj\Debug\lab10.pdb
+C:\Users\agata\Desktop\Platformy Technologiczne\lab11_2\lab10\obj\Debug\FibonacciAndCompression.Form1.resources
+C:\Users\agata\Desktop\Platformy Technologiczne\lab11_2\lab10\bin\Debug\lab10.exe.config
+C:\Users\agata\Desktop\Platformy Technologiczne\lab11_2\lab10\bin\Debug\lab10.exe
+C:\Users\agata\Desktop\Platformy Technologiczne\lab11_2\lab10\bin\Debug\lab10.pdb
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab11_2\lab10\bin\Debug\lab10.exe.config
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab11_2\lab10\bin\Debug\lab10.exe
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab11_2\lab10\bin\Debug\lab10.pdb
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab11_2\lab10\obj\Debug\lab10.csproj.AssemblyReference.cache
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab11_2\lab10\obj\Debug\FibonacciAndCompression.Form1.resources
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab11_2\lab10\obj\Debug\lab10.Properties.Resources.resources
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab11_2\lab10\obj\Debug\lab10.csproj.GenerateResource.cache
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab11_2\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab11_2\lab10\obj\Debug\lab10.exe
+C:\Users\agata\Desktop\PlatformyTechnologiczne\lab11_2\lab10\obj\Debug\lab10.pdb

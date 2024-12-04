@@ -1,0 +1,10 @@
+C:\Users\agata\Desktop\Platformy Technologiczne\lab11_3\lab11_3\bin\Debug\lab11_3.exe.config
+C:\Users\agata\Desktop\Platformy Technologiczne\lab11_3\lab11_3\bin\Debug\lab11_3.exe
+C:\Users\agata\Desktop\Platformy Technologiczne\lab11_3\lab11_3\bin\Debug\lab11_3.pdb
+C:\Users\agata\Desktop\Platformy Technologiczne\lab11_3\lab11_3\obj\Debug\lab11_3.csproj.AssemblyReference.cache
+C:\Users\agata\Desktop\Platformy Technologiczne\lab11_3\lab11_3\obj\Debug\lab11_3.Properties.Resources.resources
+C:\Users\agata\Desktop\Platformy Technologiczne\lab11_3\lab11_3\obj\Debug\lab11_3.csproj.GenerateResource.cache
+C:\Users\agata\Desktop\Platformy Technologiczne\lab11_3\lab11_3\obj\Debug\lab11_3.csproj.CoreCompileInputs.cache
+C:\Users\agata\Desktop\Platformy Technologiczne\lab11_3\lab11_3\obj\Debug\lab11_3.exe
+C:\Users\agata\Desktop\Platformy Technologiczne\lab11_3\lab11_3\obj\Debug\lab11_3.pdb
+C:\Users\agata\Desktop\Platformy Technologiczne\lab11_3\lab11_3\obj\Debug\CompressionApp.Form1.resources
